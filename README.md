@@ -1,6 +1,6 @@
 # Hi there 👋
-## I'm Dionne
-### Welcome to my profile!
+
+## I'm Dionne, welcome to my profile!
 
 <!--
 **dionnecf/dionnecf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
