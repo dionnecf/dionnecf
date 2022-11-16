@@ -2,7 +2,7 @@
 
 ## I'm Dionne, welcome to my profile!
 
-I'm a Tech Career Coach and Speaker with 20 years experience as a Software Developer, and 18 experience as a Agile Development Lead (aka Engineering Manager).
+I'm a Tech Career Coach and Speaker with 20 years experience as a Software Developer, and 18 experience as an Agile Development Lead (aka Engineering Manager).
 
 I help women who are frsutrated in their current jobs, build inner confidence to make a career change into tech, through a soulful exploration of mindset, skillsets and next steps.  We'll focus on getting clarity on your goals, identifing limited beliefs that are holding you back, creating a realistic action plan within a realistic timeframe, and most importantly keeping you accountable.
 
