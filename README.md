@@ -1,7 +1,5 @@
 # Hi there 👋
-
 ## I'm Dionne
-
 ### Welcome to my profile!
 
 <!--
