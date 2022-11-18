@@ -3,9 +3,7 @@
 ## You can get your free guide to 8 Brilliant Resources To Get Started With Coding here [https://bit.ly/3yFotiz](https://bit.ly/3yFotiz)
 
 
-# Hi there 👋
-
-## I'm Dionne, welcome to my profile!
+# Hi there 👋, I'm Dionne, welcome to my profile!
 
 I'm a Tech Career Coach and Speaker with 20 years experience as a Software Developer, and 18 experience as an Agile Development Lead (aka Engineering Manager).
 
