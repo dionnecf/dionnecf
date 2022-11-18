@@ -13,6 +13,16 @@ To find out more about The Confidence Coaching Programme click [here](https://di
 
 To help those who are absolutely new to coding I also created a free guide of 8 Brilliant resources to get you started with coding.  Check it out here and get your free guide today here [https://bit.ly/3yFotiz](https://bit.ly/3yFotiz)
 
+##Interests
+
+Mobile development
+Android
+Kotlin 
+Java
+Spring Boot
+Azure
+HTML/CSS
+
 <!--
 **dionnecf/dionnecf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
