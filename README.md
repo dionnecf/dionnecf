@@ -7,7 +7,7 @@
 
 I'm a Tech Career Coach and Speaker with 20 years experience as a Software Developer, and 18 experience as an Agile Development Lead (aka Engineering Manager).
 
-I help women who are frsutrated in their current jobs, build inner confidence to make a career change into tech, through a soulful exploration of mindset, skillsets and next steps.  We'll focus on getting clarity on your goals, identifing limited beliefs that are holding you back, identifying transferrable skills, creating a realistic action plan within a realistic timeframe, and most importantly keeping you accountable.
+I help women who are frustrated in their current jobs, build inner confidence to make a career change into tech, through a soulful exploration of mindset, skillsets and next steps.  We'll focus on getting clarity on your goals, identifing limited beliefs that are holding you back, identifying existing transferrable skills, creating a realistic action plan within a realistic timeframe, and most importantly keeping you accountable.
 
 To find out more about The Confidence Coaching Programme click [here](https://dionnecondor-farrell.com/career-coaching-programme-for-women-into-tech)
 
