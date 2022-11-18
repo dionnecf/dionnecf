@@ -1,6 +1,6 @@
 ![Facebook Cover Banner - Get Your Free Guide (1)](https://user-images.githubusercontent.com/15780285/202602848-c7592f03-8f8c-43b9-9ccd-adedb1604579.png)
 
-## You can get your free guide to 8 Brilliant Resources To Get Started With Coding [here](https://bit.ly/3yFotiz)
+## You can get your free guide to 8 Brilliant Resources To Get Started With Coding here [https://bit.ly/3yFotiz](https://bit.ly/3yFotiz)
 
 
 # Hi there 👋
